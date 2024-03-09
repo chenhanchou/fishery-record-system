@@ -1,6 +1,9 @@
-![image](https://github.com/chenhanchou/fishery-record-systm/blob/main/image/dolphin%20singing.jpg)
-## Fishery Record System
+# Fishery Record System
 協助管理魚塭的資訊系統，可記錄養殖資訊
+
+
+|![image](./image/dolphin%20singing.jpg)|
+|:---:|
 
 ## 特色
 1. 數據可視化:  
