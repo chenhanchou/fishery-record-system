@@ -1,4 +1,4 @@
-![image]([picture or gif url](https://github.com/chenhanchou/fishery-record-systm/blob/main/image/dolphin%20singing.jpg))
+![image](https://github.com/chenhanchou/fishery-record-systm/blob/main/image/dolphin%20singing.jpg)
 ## Fishery Record System
 協助管理魚塭的資訊系統，可記錄養殖資訊
 
