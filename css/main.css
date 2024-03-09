@@ -1,0 +1,69 @@
+/* -------------------------------------- */
+/* common setting */
+* {
+    padding: 0;
+    margin: 0;
+}
+svg{
+    width: auto;
+    height: 100%;
+}
+.main{
+    height: 100vh;
+}
+.work_frame{
+    height: 85vh;
+}
+/* ---------------  font  -------------------- */
+@font-face {
+    font-family: 'cwTeXYen';
+    font-style: normal;
+    font-weight: 500;
+    src: url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.eot);
+    src: url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.eot?#iefix) format('embedded-opentype'),
+         url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.woff2) format('woff2'),
+         url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.woff) format('woff'),
+         url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.ttf) format('truetype');
+}
+body, button, input, h1, h2, h3, h4, h5, h6{
+    font-family: cwTeXYen;
+}
+/*------------------------ menu-row ---------------------------- */
+#menu-row{
+    background-color: #1757c6;
+}
+#updatetime{
+    color: #fff;
+    font-size: 20pt;
+}
+.btn{
+    --bs-btn-border-color: #000;
+    --bs-btn-hover-border-color: #1757c6;
+}
+/*------------------------ map ---------------------------- */
+.pond{
+    cursor: pointer;
+    fill: #fff;
+    stroke: #000;
+}
+#map_svg text{
+    cursor: pointer;
+}
+
+.NoShow{
+    font-size: 0 !important;
+    fill: none !important;
+}
+
+/*------------------------ table -------------------------- */
+#table_div{
+    font-size: 20pt;
+}
+
+/*------------------------ offcanvas ---------------------------- */
+.offcanvas{
+    font-size: 20pt;
+}
+.legend_frame{
+    height: 50px;
+}
