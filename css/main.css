@@ -14,20 +14,6 @@ svg{
 .work_frame{
     height: 85vh;
 }
-/* ---------------  font  -------------------- */
-@font-face {
-    font-family: 'cwTeXYen';
-    font-style: normal;
-    font-weight: 500;
-    src: url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.eot);
-    src: url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.eot?#iefix) format('embedded-opentype'),
-         url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.woff2) format('woff2'),
-         url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.woff) format('woff'),
-         url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.ttf) format('truetype');
-}
-body, button, input, h1, h2, h3, h4, h5, h6{
-    font-family: cwTeXYen;
-}
 /*------------------------ menu-row ---------------------------- */
 #menu-row{
     background-color: #1757c6;
