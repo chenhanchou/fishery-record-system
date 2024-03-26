@@ -29,8 +29,12 @@ svg{
 /*------------------------ map ---------------------------- */
 .pond{
     cursor: pointer;
-    fill: #fff;
+    fill: rgba(255, 255, 255, 0);
     stroke: #000;
+}
+.pond:hover{
+    stroke: red;
+    scale: 1.005;
 }
 #map_svg text{
     cursor: pointer;
@@ -52,4 +56,5 @@ svg{
 }
 .legend_frame{
     height: 50px;
+    font-size: 18pt;
 }
